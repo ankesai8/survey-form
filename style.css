@@ -1,0 +1,15 @@
+es (13 sloc)  250 Bytes
+   
+body{
+    margin: 30px;
+    padding: 10px;
+    border-style:groove;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.fa{
+    color: rgb(238, 158, 54);
+    width:4%;
+}  
+  .required {
+    color: red;
+  }
